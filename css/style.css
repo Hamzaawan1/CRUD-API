@@ -1,5 +1,7 @@
 .container .recipes div {
-  border-bottom: 2px dashed blue;
-  margin-bottom: 5px;
+    border: 2px black;
+    margin-bottom: 5px;
 }
+
+
 /*# sourceMappingURL=style.css.map */
