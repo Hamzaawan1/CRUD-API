@@ -1,7 +1,5 @@
 .container .recipes div {
-    border: 2px black;
-    margin-bottom: 5px;
+  border-bottom: 2px black;
+  margin-bottom: 5px;
 }
-
-
 /*# sourceMappingURL=style.css.map */
